@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J5aiDfujDQzWgp2zWTg3rkB52yhXPG9Xxd2Iod3BzAF+Q/61+QKhlXHeFUuEHKu8SqWEfwxtyz9YyEMqxUdyBg==",
+  "success": true,
+  "projectFilePath": "D:\\ADM\\Projetos_Dotnet_Core\\Template-Users-Control\\Template.IoC\\Template.IoC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\atulioli\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

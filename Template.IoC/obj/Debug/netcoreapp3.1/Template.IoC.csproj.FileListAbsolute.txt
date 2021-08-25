@@ -1,0 +1,12 @@
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.IoC\bin\Debug\netcoreapp3.1\Template.IoC.deps.json
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.IoC\bin\Debug\netcoreapp3.1\Template.IoC.dll
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.IoC\bin\Debug\netcoreapp3.1\Template.IoC.pdb
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.IoC\bin\Debug\netcoreapp3.1\Template-Users-Control.Application.dll
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.IoC\bin\Debug\netcoreapp3.1\Template-Users-Control.Application.pdb
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.IoC\obj\Debug\netcoreapp3.1\Template.IoC.csproj.AssemblyReference.cache
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.IoC\obj\Debug\netcoreapp3.1\Template.IoC.AssemblyInfoInputs.cache
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.IoC\obj\Debug\netcoreapp3.1\Template.IoC.AssemblyInfo.cs
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.IoC\obj\Debug\netcoreapp3.1\Template.IoC.csproj.CoreCompileInputs.cache
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.IoC\obj\Debug\netcoreapp3.1\Template.IoC.csproj.CopyComplete
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.IoC\obj\Debug\netcoreapp3.1\Template.IoC.dll
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.IoC\obj\Debug\netcoreapp3.1\Template.IoC.pdb

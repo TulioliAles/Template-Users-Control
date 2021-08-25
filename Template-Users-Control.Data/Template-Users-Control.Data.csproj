@@ -5,4 +5,10 @@
     <RootNamespace>Template_Users_Control.Data</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Context\" />
+    <Folder Include="Mappings\" />
+    <Folder Include="Repositories\" />
+  </ItemGroup>
+
 </Project>
