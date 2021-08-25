@@ -1,0 +1,15 @@
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Data\bin\Debug\netcoreapp3.1\Template-Users-Control.Data.deps.json
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Data\bin\Debug\netcoreapp3.1\Template-Users-Control.Data.runtimeconfig.json
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Data\bin\Debug\netcoreapp3.1\Template-Users-Control.Data.runtimeconfig.dev.json
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Data\bin\Debug\netcoreapp3.1\Template-Users-Control.Data.dll
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Data\bin\Debug\netcoreapp3.1\Template-Users-Control.Data.pdb
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Data\bin\Debug\netcoreapp3.1\Template-Users-Control.Domain.dll
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Data\bin\Debug\netcoreapp3.1\Template-Users-Control.Domain.pdb
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Data\obj\Debug\netcoreapp3.1\Template-Users-Control.Data.csproj.AssemblyReference.cache
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Data\obj\Debug\netcoreapp3.1\Template-Users-Control.Data.AssemblyInfoInputs.cache
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Data\obj\Debug\netcoreapp3.1\Template-Users-Control.Data.AssemblyInfo.cs
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Data\obj\Debug\netcoreapp3.1\Template-Users-Control.Data.csproj.CoreCompileInputs.cache
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Data\obj\Debug\netcoreapp3.1\Template-Users-Control.Data.csproj.CopyComplete
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Data\obj\Debug\netcoreapp3.1\Template-Users-Control.Data.dll
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Data\obj\Debug\netcoreapp3.1\Template-Users-Control.Data.pdb
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Data\obj\Debug\netcoreapp3.1\Template-Users-Control.Data.genruntimeconfig.cache

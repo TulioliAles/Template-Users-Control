@@ -1,0 +1,9 @@
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Domain\bin\Debug\netcoreapp3.1\Template-Users-Control.Domain.deps.json
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Domain\bin\Debug\netcoreapp3.1\Template-Users-Control.Domain.dll
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Domain\bin\Debug\netcoreapp3.1\Template-Users-Control.Domain.pdb
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Domain\obj\Debug\netcoreapp3.1\Template-Users-Control.Domain.csproj.AssemblyReference.cache
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Domain\obj\Debug\netcoreapp3.1\Template-Users-Control.Domain.AssemblyInfoInputs.cache
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Domain\obj\Debug\netcoreapp3.1\Template-Users-Control.Domain.AssemblyInfo.cs
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Domain\obj\Debug\netcoreapp3.1\Template-Users-Control.Domain.csproj.CoreCompileInputs.cache
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Domain\obj\Debug\netcoreapp3.1\Template-Users-Control.Domain.dll
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Domain\obj\Debug\netcoreapp3.1\Template-Users-Control.Domain.pdb
