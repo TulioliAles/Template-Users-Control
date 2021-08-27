@@ -12,7 +12,15 @@ namespace Template_Users_Control.Data.Extensions
         {
             builder.Entity<User>()
                 .HasData(
-                    new User { Id = Guid.Parse("67a4e611-061e-40b5-9670-5539e5695ab5"), Name = "User Default", Email = "userdefault@template.com"}
+                    new User
+                    {
+                        Id = Guid.Parse("67a4e611-061e-40b5-9670-5539e5695ab5"),
+                        Name = "User Default",
+                        Email = "userdefault@template.com",
+                        DateCreated = new DateTime(2021,08,26),
+                        IsDeleted = false,
+                        DateUpdated = null
+                    }
             );
 
             return builder;

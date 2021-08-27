@@ -16,7 +16,7 @@ namespace Template_Users_Control.Controllers
 
         public UsersController(IUserService userService)
         {
-            _userService = userService;
+            this._userService = userService;
         }
 
         [HttpGet]
@@ -26,5 +26,7 @@ namespace Template_Users_Control.Controllers
 
             return Ok("Ok");
         }
+
+
     }
 }

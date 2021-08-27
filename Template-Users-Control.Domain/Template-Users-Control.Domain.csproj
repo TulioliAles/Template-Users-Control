@@ -5,9 +5,4 @@
     <RootNamespace>Template_Users_Control.Domain</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Interfaces\" />
-    <Folder Include="Models\" />
-  </ItemGroup>
-
 </Project>
