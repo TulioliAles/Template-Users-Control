@@ -16,15 +16,13 @@ namespace Template_Users_Control.Controllers
 
         public UsersController(IUserService userService)
         {
-            this._userService = userService;
+            _userService = userService;
         }
 
         [HttpGet]
         public IActionResult Get()
         {
-            _userService.Test();
-
-            return Ok("Ok");
+            return Ok(_userService.Get());
         }
 
 

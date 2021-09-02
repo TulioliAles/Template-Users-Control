@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="ViewModels\" />
+    <ProjectReference Include="..\Template-Users-Control.Domain\Template-Users-Control.Domain.csproj" />
   </ItemGroup>
 
 </Project>

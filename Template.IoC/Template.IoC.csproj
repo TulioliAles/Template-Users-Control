@@ -10,6 +10,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Template-Users-Control.Application\Template-Users-Control.Application.csproj" />
+    <ProjectReference Include="..\Template-Users-Control.Data\Template-Users-Control.Data.csproj" />
+    <ProjectReference Include="..\Template-Users-Control.Domain\Template-Users-Control.Domain.csproj" />
   </ItemGroup>
 
 </Project>

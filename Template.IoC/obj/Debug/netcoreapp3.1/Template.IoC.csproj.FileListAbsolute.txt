@@ -10,3 +10,7 @@ D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.IoC\obj\Debug\netcor
 D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.IoC\obj\Debug\netcoreapp3.1\Template.IoC.csproj.CopyComplete
 D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.IoC\obj\Debug\netcoreapp3.1\Template.IoC.dll
 D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.IoC\obj\Debug\netcoreapp3.1\Template.IoC.pdb
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.IoC\bin\Debug\netcoreapp3.1\Template-Users-Control.Data.dll
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.IoC\bin\Debug\netcoreapp3.1\Template-Users-Control.Domain.dll
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.IoC\bin\Debug\netcoreapp3.1\Template-Users-Control.Data.pdb
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.IoC\bin\Debug\netcoreapp3.1\Template-Users-Control.Domain.pdb

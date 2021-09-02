@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "Template-Users-Control.Application/1.0.0": {
+        "dependencies": {
+          "Template-Users-Control.Domain": "1.0.0"
+        },
         "runtime": {
           "Template-Users-Control.Application.dll": {}
+        }
+      },
+      "Template-Users-Control.Domain/1.0.0": {
+        "runtime": {
+          "Template-Users-Control.Domain.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Template-Users-Control.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Template-Users-Control.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
