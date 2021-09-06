@@ -1,0 +1,8 @@
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.Swagger\bin\Debug\netcoreapp3.1\Template.Swagger.deps.json
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.Swagger\bin\Debug\netcoreapp3.1\Template.Swagger.dll
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.Swagger\bin\Debug\netcoreapp3.1\Template.Swagger.pdb
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.Swagger\obj\Debug\netcoreapp3.1\Template.Swagger.AssemblyInfoInputs.cache
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.Swagger\obj\Debug\netcoreapp3.1\Template.Swagger.AssemblyInfo.cs
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.Swagger\obj\Debug\netcoreapp3.1\Template.Swagger.csproj.CoreCompileInputs.cache
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.Swagger\obj\Debug\netcoreapp3.1\Template.Swagger.dll
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.Swagger\obj\Debug\netcoreapp3.1\Template.Swagger.pdb

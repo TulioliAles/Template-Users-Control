@@ -37,9 +37,18 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Content Remove="wwwroot\api-doc" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Controllers\UsersController.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Template-Users-Control.Application\Template-Users-Control.Application.csproj" />
     <ProjectReference Include="..\Template-Users-Control.Data\Template-Users-Control.Data.csproj" />
     <ProjectReference Include="..\Template.IoC\Template.IoC.csproj" />
+    <ProjectReference Include="..\Template.Swagger\Template.Swagger.csproj" />
   </ItemGroup>
 
   <Target Name="DebugEnsureNodeEnv" BeforeTargets="Build" Condition=" '$(Configuration)' == 'Debug' And !Exists('$(SpaRoot)node_modules') ">
