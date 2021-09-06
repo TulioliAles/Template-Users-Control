@@ -28,11 +28,6 @@ namespace Template_Users_Control.Application.Services
 
             userViewModels = _mapper.Map<List<UserViewModel>>(users);
 
-            //foreach (var item in users)
-            //{
-            //    userViewModels.Add(_mapper.Map<UserViewModel>(item));
-            //}
-
             return userViewModels;
         }
 
