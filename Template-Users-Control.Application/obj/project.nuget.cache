@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "qmnde/rngqEghNXOYRtaJC7apSHD6w6s4eBpydIuket9N1xUIa242JhMvgAbBB0k1igBlXucTvWaZk/uNgH1tw==",
+  "dgSpecHash": "s7GI0oTTYvRRkPSkArxSdEFa9rGHT5KgLBAcO/a1iPYZIOmHVUC3E13h3TG6Bjo0TDNWI/0bnAEfTbgpXLX0Sw==",
   "success": true,
   "projectFilePath": "D:\\ADM\\Projetos_Dotnet_Core\\Template-Users-Control\\Template-Users-Control.Application\\Template-Users-Control.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\atulioli\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\atulioli\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\atulioli\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\atulioli\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\atulioli\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\atulioli\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\atulioli\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
