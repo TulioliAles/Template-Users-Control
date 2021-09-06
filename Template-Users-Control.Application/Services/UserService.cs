@@ -39,5 +39,37 @@ namespace Template_Users_Control.Application.Services
 
             return true;
         }
+
+        public UserViewModel GetById(string id)
+        {
+            if (!Guid.TryParse(id, out Guid userId))
+                throw new Exception("UserID inválido");
+
+            User user = _userRepository.Find(x => x.Id == userId && !x.IsDeleted);
+
+            if (user == null)
+                throw new Exception("Usuário não encontrado");
+
+            return _mapper.Map<UserViewModel>(user);
+        }
+
+        public bool Put(UserViewModel userViewModel)
+        {
+            User user = _userRepository.Find(x => x.Id == userViewModel.Id && !x.IsDeleted);
+
+            if(user == null)
+                throw new Exception("Usuário não encontrado");
+
+            user = _mapper.Map<User>(userViewModel);
+
+            _userRepository.Update(user);
+
+            return true;
+        }
+
+        public bool Delete(string id)
+        {
+
+        }
     }
 }
