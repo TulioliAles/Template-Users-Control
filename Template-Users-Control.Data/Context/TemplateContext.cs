@@ -23,6 +23,7 @@ namespace Template_Users_Control.Data.Context
         {
             modelBuilder.ApplyConfiguration(new UserMap());
 
+            modelBuilder.ApplyGlobalConfigurations();
             modelBuilder.SeedData();
 
             base.OnModelCreating(modelBuilder);
