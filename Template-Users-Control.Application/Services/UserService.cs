@@ -69,7 +69,15 @@ namespace Template_Users_Control.Application.Services
 
         public bool Delete(string id)
         {
+            if (!Guid.TryParse(id, out Guid userId))
+                throw new Exception("UserID inválido");
 
+            User user = _userRepository.Find(x => x.Id == userId && !x.IsDeleted);
+
+            if (user == null)
+                throw new Exception("Usuário não encontrado");
+
+            return _userRepository.Delete(user);
         }
     }
 }
