@@ -1,0 +1,12 @@
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.Auth\bin\Debug\netcoreapp3.1\Template.Auth.deps.json
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.Auth\bin\Debug\netcoreapp3.1\Template.Auth.dll
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.Auth\bin\Debug\netcoreapp3.1\Template.Auth.pdb
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.Auth\bin\Debug\netcoreapp3.1\Template-Users-Control.Domain.dll
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.Auth\bin\Debug\netcoreapp3.1\Template-Users-Control.Domain.pdb
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.Auth\obj\Debug\netcoreapp3.1\Template.Auth.csproj.AssemblyReference.cache
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.Auth\obj\Debug\netcoreapp3.1\Template.Auth.AssemblyInfoInputs.cache
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.Auth\obj\Debug\netcoreapp3.1\Template.Auth.AssemblyInfo.cs
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.Auth\obj\Debug\netcoreapp3.1\Template.Auth.csproj.CoreCompileInputs.cache
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.Auth\obj\Debug\netcoreapp3.1\Template.Auth.csproj.CopyComplete
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.Auth\obj\Debug\netcoreapp3.1\Template.Auth.dll
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template.Auth\obj\Debug\netcoreapp3.1\Template.Auth.pdb

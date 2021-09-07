@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Template-Users-Control.Domain\Template-Users-Control.Domain.csproj" />
+    <ProjectReference Include="..\Template.Auth\Template.Auth.csproj" />
   </ItemGroup>
 
 </Project>

@@ -47,6 +47,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Template-Users-Control.Application\Template-Users-Control.Application.csproj" />
     <ProjectReference Include="..\Template-Users-Control.Data\Template-Users-Control.Data.csproj" />
+    <ProjectReference Include="..\Template.Auth\Template.Auth.csproj" />
     <ProjectReference Include="..\Template.IoC\Template.IoC.csproj" />
     <ProjectReference Include="..\Template.Swagger\Template.Swagger.csproj" />
   </ItemGroup>

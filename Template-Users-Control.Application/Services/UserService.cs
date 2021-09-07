@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
+using Template.Auth.Services;
 using Template_Users_Control.Application.Interfaces;
 using Template_Users_Control.Application.ViewModels;
 using Template_Users_Control.Domain.Entities;
@@ -78,6 +79,16 @@ namespace Template_Users_Control.Application.Services
                 throw new Exception("Usuário não encontrado");
 
             return _userRepository.Delete(user);
+        }
+
+        public UserAuthenticateResponseViewModel Authenticate(UserAuthenticateRequestViewModel user)
+        {
+            User _user = _userRepository.Find(x => !x.IsDeleted && x.Email.ToLower() == user.Email.ToLower());
+
+            if (user == null)
+                throw new Exception("Usuário não encontrado");
+
+            return new UserAuthenticateResponseViewModel(_mapper.Map<UserViewModel>(_user), TokenService.GenerateToken(_user));
         }
     }
 }
