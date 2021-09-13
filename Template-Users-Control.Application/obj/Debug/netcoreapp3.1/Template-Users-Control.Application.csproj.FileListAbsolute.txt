@@ -12,3 +12,4 @@ D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Applic
 D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Application\obj\Debug\netcoreapp3.1\Template-Users-Control.Application.csproj.CopyComplete
 D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Application\obj\Debug\netcoreapp3.1\Template-Users-Control.Application.dll
 D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Application\obj\Debug\netcoreapp3.1\Template-Users-Control.Application.pdb
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Application\obj\Debug\netcoreapp3.1\Template-Users-Control.Application.GeneratedMSBuildEditorConfig.editorconfig

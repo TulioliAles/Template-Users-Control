@@ -13,3 +13,4 @@ D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Data\o
 D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Data\obj\Debug\netcoreapp3.1\Template-Users-Control.Data.dll
 D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Data\obj\Debug\netcoreapp3.1\Template-Users-Control.Data.pdb
 D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Data\obj\Debug\netcoreapp3.1\Template-Users-Control.Data.genruntimeconfig.cache
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Data\obj\Debug\netcoreapp3.1\Template-Users-Control.Data.GeneratedMSBuildEditorConfig.editorconfig

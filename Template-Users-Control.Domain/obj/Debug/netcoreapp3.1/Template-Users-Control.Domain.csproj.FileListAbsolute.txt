@@ -7,3 +7,4 @@ D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Domain
 D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Domain\obj\Debug\netcoreapp3.1\Template-Users-Control.Domain.csproj.CoreCompileInputs.cache
 D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Domain\obj\Debug\netcoreapp3.1\Template-Users-Control.Domain.dll
 D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Domain\obj\Debug\netcoreapp3.1\Template-Users-Control.Domain.pdb
+D:\ADM\Projetos_Dotnet_Core\Template-Users-Control\Template-Users-Control.Domain\obj\Debug\netcoreapp3.1\Template-Users-Control.Domain.GeneratedMSBuildEditorConfig.editorconfig
