@@ -28,7 +28,19 @@ export class UsersComponent implements OnInit {
     });
   }
 
-  post() {
+  save() {
+    if(this.user.id)
+      this.put
+    else
+      this.post
+  }
+
+  openDetails(user){
+    this.showList = false;
+    this.user = user;
+  }
+
+  post(){
     this.userDataService.post(this.user).subscribe( data => {
       if(data) {
         alert('Usuário Cadastrado com Sucesso!');
@@ -36,6 +48,21 @@ export class UsersComponent implements OnInit {
         this.user = '';
       } else {
         alert('Erro ao Cadastrar Usuário!');
+      }
+    }, error => {
+      console.log(error);
+      alert('Erro interno da Sistema.');
+    });
+  }
+
+  put(){
+    this.userDataService.put(this.user).subscribe( data => {
+      if(data) {
+        alert('Usuário Atualizado com Sucesso!');
+        this.get();
+        this.user = '';
+      } else {
+        alert('Erro ao Atualizar Usuário!');
       }
     }, error => {
       console.log(error);
